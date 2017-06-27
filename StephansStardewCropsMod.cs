@@ -26,8 +26,8 @@ namespace StephansStardewCrops
         static public List<StardewValley.Object> springCropObjects = new List<StardewValley.Object>();
         static public List<StardewValley.Object> summerCropObjects = new List<StardewValley.Object>();
         static public List<StardewValley.Object> fallCropObjects = new List<StardewValley.Object>();
-        static public List<int> springCropInts = new List<int>() {797,799,801, 821};
-        static public List<int> summerCropInts = new List<int>() {803,805,807, 821};
+        static public List<int> springCropInts = new List<int>() {797,799,801};
+        static public List<int> summerCropInts = new List<int>() {803,805,807};
         static public List<int> fallCropInts = new List<int>() {809,811,813};
         static Dictionary<Item, int[]> itemPriceAndStock;
         static List<Item> forSale;
